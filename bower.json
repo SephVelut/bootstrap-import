@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-import",
+  "homepage": "https://github.com/SephVelut/dash-sidemenu",
+  "authors": [
+    "seph <sephvelut@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bootstrap-progressbar": "^0.9.0",
+    "bootstrap-daterangepicker": "^2.1.19"
+  }
+}
